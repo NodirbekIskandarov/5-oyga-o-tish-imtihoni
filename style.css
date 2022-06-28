@@ -1,0 +1,48 @@
+.box {
+    width: 300px;
+    height: 500px;
+    border: solid blue 1px;
+    border-radius: 25px;
+}
+.box img {
+    width: 200px;
+    height: 300px;
+    margin: 0 auto;
+}
+.iphone13 {
+    width: 900px;
+    height: 150px;
+    margin: 30px auto;
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    border-radius: 30px;
+}
+.iphone13 p {
+    color: white;
+    margin: auto 0;
+    width: 400px;
+    font-size: 30px;
+    padding-left: 100px;
+}
+.iphone13 img {
+    padding-right: 70px;
+}
+.heart {
+    width: 100%;
+}
+.heart p {
+    float: left;
+}
+.footer {
+    margin-top: 50px;
+    padding: 20px;
+    border-radius: 30px;
+    background-color: white;
+}
+body {
+    background-color: rgb(235, 235, 235);
+}
+.footer p {
+    font-size: 20px;
+}
